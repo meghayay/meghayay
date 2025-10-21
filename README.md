@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Welcome to Megha's GitHub Banner"/>
+  <img src="assets/cat.png" alt="Welcome to Megha's GitHub Banner"/>
 </p>
 
 
@@ -136,5 +136,7 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/meghayay/meghayay/output/pacman-contribution-graph.svg">
 </picture>
 
-
+<br>
+<b>借りてきた猫 </b>  
+<br><br>
 
