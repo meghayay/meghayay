@@ -106,7 +106,7 @@
 </div>
 
 <br><br><br>
-
+<!--
 
 <h2 align="center">
     <img src="https://img.shields.io/badge/--000000?style=flat&logo=analogue&logoColor=white" height="25" alt="Statistics Icon" /> 
@@ -137,6 +137,7 @@
 </picture>
 
 <br>
+-->
 <b>借りてきた猫 </b>  
 <br><br>
 
