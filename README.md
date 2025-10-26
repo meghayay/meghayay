@@ -8,11 +8,8 @@
     <a href="https://www.linkedin.com/in/jehmegh/">
         <img src="https://img.shields.io/badge/LINKEDIN-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6A0DAD&color=6A0DAD" alt="LinkedIn Badge" />
     </a>
-    <img width="10" />
-    <a href="https://x.com/jehmegh">
-        <img src="https://img.shields.io/badge/X.COM-6A0DAD?style=for-the-badge&logo=x&logoColor=white&labelColor=6A0DAD&color=6A0DAD" alt="X.com Badge" />
-    </a>
-    <img width="10" />
+      
+<img width="10" />
     <a href="https://leetcode.com/u/jehmegh/">
         <img src="https://img.shields.io/badge/LEETCODE-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=6A0DAD&color=6A0DAD" alt="LeetCode Badge" />
     </a>
