@@ -34,7 +34,7 @@
 <h2 align="center"> <i>About Me</i></h2>
 
 <div align="center">
-    <table width="95%" style="border-collapse: collapse; border: 0;">
+    <table width="95%" ">
         <tr>
             <td width="60%" align="left" style="padding-right: 20px; vertical-align: top; border: 0;">
                 <p>I'm a Web3 Engineer and AI Developer focused on high-impact blockchain products and AI-augmented experiences. I ship secure smart-contract systems, performant dApps, and polished UIs with a strong emphasis on reliability, scalability, and developer ergonomics.</p>
@@ -58,7 +58,7 @@
                 </p>
             </td>
 
- <td width="40%" align="center" style="vertical-align: top; border: 0;">
+ <td width="40%" align="center" style="vertical-align: top; ">
                 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHYzd2l6a3diYTRnM25ucXE0dWx2djZscWlyYnpoMzRyeXhranMwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kiWlpxD6hXmvTL8dio/giphy.gif" alt="Coding GIF" width="90%">
                 
  <br><br>
@@ -70,7 +70,7 @@
             </td>
         </tr>
     </table>
-</div>
+
 
 <br><br>
 
@@ -112,7 +112,7 @@
     <img src="https://img.shields.io/badge/POSTGRESQL-1E90FF?logo=postgresql&logoColor=white" height="30" alt="PostgreSQL logo" />
 </div>
 
-<br><br>
+<br>
 
 <h2 align="center">
     <i>Statistics</i>
@@ -124,12 +124,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=meghayay&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&side_color=000000&currstreak_bg=000000&currstreak_border=000000&date_color=ffffff&border=000000&background=000000&side_wave=ffffff&stroke=000000" height="150" alt="GitHub Streak for meghayay" />
 </div>
 
-
-
-<br><br><br>
-
-
-
+<br>
 
 <h2 align="center">
     <i>Megha's Contribution Graph</i>
