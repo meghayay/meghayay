@@ -23,7 +23,7 @@
     </a>
     <img width="10" />
     <a href="YOUR_PORTFOLIO_URL_HERE">
-        <img src="https://img.shields.io/badge/PORTFOLIO-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=6A0DAD&color=6A0DAD" alt="Portfolio Badge" />
+        <img src="https://img.shields.io/badge/PORTFOLIO-6A0DAD?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=6A0DAD&color=6A0DAD" alt="Portfolio Badge" />
     </a>
 </div>
     
