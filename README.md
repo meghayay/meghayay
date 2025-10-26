@@ -41,8 +41,8 @@
                 
 <h3> Web3 & AI Focus:</h3>
  <p>
-                <img src="https://img.shields.io/badge/Chains-6A0DAD?logo=solana&logoColor=white&labelColor=6A0DAD&color=6A0DAD" height="20" alt="Chains logo" /> 
-                <strong>Chains:</strong> Solana, EVM (Ethereum + L2s), Sui, Hyperliquid, Bitcoin, XRP, MetaverseX
+                <img src="https://img.shields.io/badge/Chains-6A0DAD?logo=solana&logoColor=white&labelColor=6A0DAD&color=6A0DAD" height="30" alt="Chains logo" /> 
+                :Solana, EVM (Ethereum + L2s), Sui, Hyperliquid, Bitcoin, XRP, MetaverseX
                 </p>
                 <p>
                 <img src="https://img.shields.io/badge/Languages-6A0DAD?logo=rust&logoColor=white&labelColor=6A0DAD&color=6A0DAD" height="20" alt="Languages logo" /> 
@@ -50,11 +50,11 @@
                 </p>
                 <p>
                 <img src="https://img.shields.io/badge/Product%20Areas-6A0DAD?logo=ethereum&logoColor=white&labelColor=6A0DAD&color=6A0DAD" height="20" alt="Product Areas logo" /> 
-                <strong>Product areas:</strong> DeFi, DAO, Perpetuals, Launchpads, Gaming (P2E/NFT), Trading Infrastructure (on-chain agents, data pipelines, strategy automation, conversational tooling)
+                : DeFi, DAO, Perpetuals, Launchpads, Gaming (P2E/NFT), Trading Infrastructure (on-chain agents, data pipelines, strategy automation, conversational tooling)
                 </p>
                 <p>
                 <img src="https://img.shields.io/badge/AI/ML%20Tools-6A0DAD?logo=tensorflow&logoColor=white&labelColor=6A0DAD&color=6A0DAD" height="20" alt="AI/ML Tools logo" /> 
-                <strong>AI/ML Tools:</strong> TensorFlow, PyTorch, Scikit-learn, Hugging Face, LangChain
+                :TensorFlow, PyTorch, Scikit-learn, Hugging Face, LangChain
                 </p>
             </td>
 
