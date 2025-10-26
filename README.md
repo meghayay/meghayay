@@ -6,35 +6,32 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/jehmegh/">
-        <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000" alt="LinkedIn Badge" />
+        <img src="https://img.shields.io/badge/LINKEDIN-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6A0DAD&color=6A0DAD" alt="LinkedIn Badge" />
     </a>
     <img width="10" />
     <a href="https://x.com/jehmegh">
-        <img src="https://img.shields.io/badge/X.COM-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=000000" alt="X.com Badge" />
+        <img src="https://img.shields.io/badge/X.COM-6A0DAD?style=for-the-badge&logo=x&logoColor=white&labelColor=6A0DAD&color=6A0DAD" alt="X.com Badge" />
     </a>
     <img width="10" />
     <a href="https://leetcode.com/u/jehmegh/">
-        <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000&color=000000" alt="LeetCode Badge" />
+        <img src="https://img.shields.io/badge/LEETCODE-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=6A0DAD&color=6A0DAD" alt="LeetCode Badge" />
     </a>
     <img width="10" />
     <a href="https://www.kaggle.com/jehmegh">
-        <img src="https://img.shields.io/badge/KAGGLE-000000?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000&color=000000" alt="Kaggle Badge" />
-    </a>
-    <img width="10" />
-    <a href="https://huggingface.co/jehmegh">
-        <img src="https://img.shields.io/badge/HUGGING%20FACE-000000?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000&color=000000" alt="Hugging Face Badge" />
+        <img src="https://img.shields.io/badge/KAGGLE-6A0DAD?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=6A0DAD&color=6A0DAD" alt="Kaggle Badge" />
     </a>
     <img width="10" />
     <a href="https://www.youtube.com/@jehmeg">
-        <img src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000&color=000000" alt="YouTube Badge" />
+        <img src="https://img.shields.io/badge/YOUTUBE-6A0DAD?style=for-the-badge&logo=youtube&logoColor=white&labelColor=6A0DAD&color=6A0DAD" alt="YouTube Badge" />
     </a>
     <img width="10" />
-    <a href="YOUR_PORTFOLIO_URL">
-        <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=webextension&logoColor=white&labelColor=000000&color=000000" alt="Portfolio Badge" />
+    <a href="YOUR_PORTFOLIO_URL_HERE">
+        <img src="https://img.shields.io/badge/PORTFOLIO-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=6A0DAD&color=6A0DAD" alt="Portfolio Badge" />
     </a>
 </div>
+    
 
-<br><br><br>
+<br><br>
 
 
 <h2 align="center"> <i>About Me</i></h2>
@@ -78,7 +75,7 @@
     </table>
 </div>
 
-<br><br><br>
+<br><br>
 
 
 
@@ -105,7 +102,7 @@
     <img src="https://img.shields.io/badge/MYSQL-000000?style=flat&logo=mysql&logoColor=white" height="30" alt="MySQL logo" />
 </div>
 
-<br><br><br>
+<br><br>
 <!--
 
 <h2 align="center">
