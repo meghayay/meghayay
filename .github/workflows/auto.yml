@@ -16,8 +16,6 @@ jobs:
       - name: Generate terminal GIF
         uses: liamg/github-profile-terminal-action@main
         with:
-          config_file: terminal.yml
-          output_file: os.gif
           twitter_username: jehmegh
           theme: dark
           token: ${{ secrets.GITHUB_TOKEN }}
