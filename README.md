@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="70%" align="center" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/NRKNJ1N/output-gif.gif">
         <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/NRKNJ1N/output-gif.gif">
